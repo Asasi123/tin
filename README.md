@@ -1,2 +1,1 @@
-# tin
-tindog initial files
+TinDog Starting Files
